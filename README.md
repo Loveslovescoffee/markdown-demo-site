@@ -6,7 +6,7 @@
 + [Uploading files like images](#uploading-files-like-images)
 
 ### Making your site publicly visible
-You want to be able to access this site via a URL so you can share your work! Follow along to update the settings.
+You want to be able to access this site via a URL so you can share your work! Follow along to update the settings.testje om eea te leren
 1. Click on `settings` tab.
 ![](./assets/img/Settings.png)
    
